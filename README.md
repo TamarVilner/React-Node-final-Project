@@ -46,4 +46,6 @@ shopping basket
 
 ![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/ec0e0b6b-a641-41b8-a84c-abf52ca414d8)
 
+![Uploading image.png…]()
+
 
