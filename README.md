@@ -45,7 +45,8 @@ The orders page only the manager may view all the users
 shopping basket
 
 ![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/ec0e0b6b-a641-41b8-a84c-abf52ca414d8)
+![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/ea8db590-91e1-44d7-a19d-d1ff6dca91a2)
 
-![Uploading image.png…]()
+
 
 
