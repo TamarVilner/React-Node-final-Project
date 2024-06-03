@@ -16,6 +16,7 @@ npm start
 ##
 
 Website users: administrator or registered customers
+
 Sign in
 
 ![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/c3fac3f3-dd83-4515-81ee-7a10da77ff39)
@@ -35,6 +36,11 @@ The orders page only the manager may view the orders of all customers
 Product Addition Page Only the administrator may add, delete and update a product
 
 ![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/72314e80-06f8-4264-8ae5-a4021f972683)
+
+The orders page only the manager may view all the users
+
+![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/3cec0108-4c29-4a01-956f-347120e87dca)
+
 
 shopping basket
 
