@@ -33,9 +33,14 @@ The orders page only the manager may view the orders of all customers
 
 ![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/089819f0-8205-45f7-862d-d1998f5e0ec3)
 
-Product Addition Page Only the administrator may add, delete and update a product
+Product Addition Page Only the administrator may **add**, **delete** and **update** a product
 
 ![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/72314e80-06f8-4264-8ae5-a4021f972683)
+
+Update product Page Only the administrator may **update** a product
+
+![image](https://github.com/TamarVilner/React-Node-final-Project/assets/144704638/36e3e8e7-2058-4cbe-8465-96325d3d5e24)
+
 
 The users page only the manager may view all the users
 
